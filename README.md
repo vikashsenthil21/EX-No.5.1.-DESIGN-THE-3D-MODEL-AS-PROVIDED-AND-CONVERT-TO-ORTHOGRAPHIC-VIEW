@@ -36,6 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+![WhatsApp Image 2023-06-12 at 18 35 03](https://github.com/vikashsenthil21/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/119433834/403ebbc4-5e8b-42d4-9524-99c2e9fe2173)
 
 
 ## RESULT:
